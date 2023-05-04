@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @wahyunf354
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP and Javascript
-- 💞️ I’m looking to collaborate on PT. PLN
+- 👀 I’m interested in Software Engineering
+- 🤠 I’m expert on PHP Laravel dan Javascript (ReactJs)
+- 🌱 I’m currently learning Golang dan Java
+- 👔 I'm working at PT. Sintesa Prima Indonesia
+- 💞️ I'm looking for collaboration opportunities with Gojek
 - 📫 How to reach me DM IG @wahyu.nf
 - ✨ My Site https://wahyunurfadillah.netlify.app/
 - My Blog Medium https://medium.com/@wahyunurfadillah313
