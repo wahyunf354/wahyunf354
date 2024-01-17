@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🤠 I’m expert on PHP Laravel dan Javascript (ReactJs)
 - 🌱 I’m currently learning Golang dan Java
-- 👔 I'm working at PT. Sintesa Prima Indonesia
+- 👔 I'm working at PT. Eiron Jaya Indonesia
 - 💞️ I'm looking for collaboration opportunities with Gojek
 - 📫 How to reach me DM IG @wahyu.nf
 - ✨ My Site https://wahyunurfadillah.netlify.app/
