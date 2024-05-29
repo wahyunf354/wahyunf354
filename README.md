@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wahyunurfadillah313@gmail.com**
 
-- 📄 Know about my experiences [https://wahyunurfadillah.netlify.app/](https://wahyunurfadillah.my.id/)
+- 📄 Know about my experiences [https://wahyunurfadillah.my.id/](https://wahyunurfadillah.my.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
