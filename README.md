@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://wahyunurfadillah.netlify.app/](https://wahyunurfadillah.netlify.app/)
 
-- 💬 Ask me about **React and Laravel**
+- 💬 Ask me about **React Js and Laravel**
 
 - 📫 How to reach me **wahyunurfadillah313@gmail.com**
 
-- 📄 Know about my experiences [https://wahyunurfadillah.netlify.app/](https://wahyunurfadillah.netlify.app/)
+- 📄 Know about my experiences [https://wahyunurfadillah.netlify.app/](https://wahyunurfadillah.my.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
